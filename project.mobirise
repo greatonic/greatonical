@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "greatonic.com",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1434,7 +1434,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<i>A Sample Ad By Greatonic</i>",
+                "caption": "<i>LEGO B V S By Greatonic</i>",
                 "active": false
               },
               {
@@ -1447,7 +1447,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<i>A Sample Ad By Greatonic</i>",
+                "caption": "<i>LEGO Sunshine By Greatonic</i>",
                 "active": false
               },
               {
